@@ -9,7 +9,7 @@
 
 ### Create Database
 Execute below sql statements to create a new database.
-
->  CREATE DATABASE **DynamicSqlFundamentals**
->
->  GO;
+```
+CREATE DATABASE DynamicSqlFundamentals
+GO;
+```
